@@ -1,0 +1,7 @@
+Admin	Requests: 1110	AvgResponseTime: 1516	Errors: 34
+Auth	Requests: 9198	AvgResponseTime: 1105	Errors: 922
+FilterPage	Requests: 469150	AvgResponseTime: 1268	Errors: 3604
+OTHER	Requests: 7042788	AvgResponseTime: 992	Errors: 231952
+ProductPage	Requests: 460416	AvgResponseTime: 1251	Errors: 25482
+SearchPage	Requests: 14246	AvgResponseTime: 1176	Errors: 7230
+StaticImage	Requests: 11396816	AvgResponseTime: 1558	Errors: 8218

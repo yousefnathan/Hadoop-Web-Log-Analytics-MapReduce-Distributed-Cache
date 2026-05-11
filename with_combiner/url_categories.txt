@@ -1,0 +1,7 @@
+/image,StaticImage
+/filter,FilterPage
+/product,ProductPage
+/search,SearchPage
+/cart,Cart
+/login,Auth
+/admin,Admin
