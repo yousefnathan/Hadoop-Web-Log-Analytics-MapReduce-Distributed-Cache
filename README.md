@@ -15,7 +15,7 @@
 
 ##  Table of Contents
 
-- [Project Overview](#📌 Project Overview)
+- [Project Overview](#project-overview)
 - [System Architecture](#system-architecture)
 - [Project Structure](#project-structure)
 - [Data Specifications](#data-specifications)
